@@ -4,8 +4,6 @@
 [![Youtube](https://img.shields.io/badge/KaizenMaker-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCL60NvLaIsgBFmmBR5TuWig)
 [![Telegram](https://img.shields.io/badge/KaizenMaker-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KaizenMaker)
 
-![KaizenMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaizenMaker&show_icons=true&theme=highcontrast)
-
 ### Technologies that I use in my day 👨🏻🛠️
 
 <div style="display: inline_block"><br/>
